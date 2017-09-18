@@ -1,0 +1,28 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 18:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 16:17:10" width="12px" height="12px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="15702" filedate="2014-06-16 05:51:35" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="76679" filedate="2014-06-16 05:51:01" width="480px" height="720px">
+</image>
+<image path="images/pl-01.png" filesize="29542" filedate="2014-06-11 18:46:49" width="720px" height="581px">
+</image>
+<image path="images/pl-02-1.jpg" filesize="43865" filedate="2014-06-15 09:35:19" width="700px" height="486px">
+</image>
+<image path="images/pl-02-2.jpg" filesize="61407" filedate="2014-06-15 09:38:01" width="706px" height="488px">
+</image>
+<image path="images/pl-03-1.jpg" filesize="54966" filedate="2014-06-15 09:40:36" width="402px" height="684px">
+</image>
+<image path="images/pl-03-2.jpg" filesize="35572" filedate="2014-06-15 09:44:07" width="380px" height="687px">
+</image>
+<image path="images/pl-03-3.jpg" filesize="47368" filedate="2014-06-15 09:48:13" width="408px" height="686px">
+</image>
+<image path="images/pl-04-1.jpg" filesize="74957" filedate="2014-06-15 09:51:06" width="720px" height="425px">
+</image>
+<image path="images/pl-04-2.jpg" filesize="51628" filedate="2014-06-15 09:53:23" width="720px" height="425px">
+</image>
+</images>
